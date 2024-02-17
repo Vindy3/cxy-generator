@@ -6,8 +6,9 @@
   "author": "cxy",
   "createTime": "2024-1-22",
   "fileConfig": {
-    "inputRootPath": "C:/D/vindy/cxy-generator/cxy-generator-demo/acm-template-pro",
+    "inputRootPath": ".source/acm-template-pro",
     "outputRootPath": "generated",
+    "sourceRootPath": "C:/D/vindy/cxy-generator/cxy-generator-demo/acm-template-pro",
     "type": "dir",
     "files": [
       {
